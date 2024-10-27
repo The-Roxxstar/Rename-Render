@@ -11,7 +11,7 @@ API_ID = os.environ.get("API_ID", "21014933")
 
 API_HASH = os.environ.get("API_HASH", "c6576c45c80fd11776378fd931bed8e9")
 
-BOT_TOKEN = os.environ.get("BOT_TOKEN", "") 
+BOT_TOKEN = os.environ.get("BOT_TOKEN", "7752128731:AAGzqaRc37yKjRCb75BrWklzF5Lr4FTgF9k") 
 
 FORCE_SUB = os.environ.get("FORCE_SUB", "You_Want_To_Know_Me") 
 
@@ -21,7 +21,7 @@ FORCE_SUB = os.environ.get("FORCE_SUB", "You_Want_To_Know_Me")
 
 DB_NAME = os.environ.get("DB_NAME", "renamevjbot")     
 
-DB_URL = os.environ.get("DB_URL", "")
+DB_URL = os.environ.get("DB_URL", "mongodb+srv://PAPCORN:PAPCORN@cluster0.paawn.mongodb.net/?retryWrites=true&w=majority")
  
 FLOOD = int(os.environ.get("FLOOD", "10"))
 
